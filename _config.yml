@@ -1,0 +1,12 @@
+# _config.yml
+
+title: "Titre de votre site"
+description: "Une brève description de votre site"
+baseurl: "" # Ne rien mettre ici si votre site est à la racine d'un domaine
+url: "https://brian62100.github.io/R5.08-dupuis-brian/"
+
+theme: jekyll-theme-minimal  # Remplacez par le nom du thème que vous souhaitez utiliser
+
+# Autres configurations Jekyll
+markdown: kramdown
+permalink: pretty
